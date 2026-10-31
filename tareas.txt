@@ -1,3 +1,6 @@
 Los requerimientos funcionales y no funcionales del sistema asignado al grupo (ver archivo adjunto)
 Informe de trabajo de los integrantes del grupo (actividades y participación)
 Diagrama General de Casos de Uso
+
+Realizar Diagrama secuancial
+Realizar Diagrama de clases
